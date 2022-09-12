@@ -1,0 +1,43 @@
+body{
+    background-color: black;
+    color: aqua;
+    
+}
+.pixel:hover{
+    flood-color: aqua;
+
+}
+
+h1{
+    font-style: italic;
+    color: yellow;
+    font-size: 60px;
+}
+h1:hover{
+    color: white;
+}
+h2{
+    color: yellowgreen;
+    font-style: oblique;
+}
+hr{
+    color: blue;
+}
+.tab{
+    width: 200px;
+    margin :auto;
+    background-color:aqua;
+    color: #000;
+    font-size: medium;
+}
+.CONT{
+    color: blue;
+    font-style: italic;
+}
+.box{
+    background-image: url(../IMAGE/shelby.jpg);
+    background-size: cover;
+}
+ol{
+    list-style-type: circle;
+} 
